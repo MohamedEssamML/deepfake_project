@@ -20,7 +20,7 @@ This project implements a DeepFake generation and detection system using deep le
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/deepfake_project.git
+   git clone https://github.com/MohamedEssamML/deepfake_project
    cd deepfake_project
    ```
 2. Create a virtual environment and activate it:
@@ -69,5 +69,3 @@ See `docs/documentation.md` for detailed information on the project, including m
 - This is a simplified implementation for educational purposes. Real-world DeepFake systems require large datasets and complex models.
 - Ensure ethical use of DeepFake technology.
 
-## License
-MIT License. See `LICENSE` file for details.
